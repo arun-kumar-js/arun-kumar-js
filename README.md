@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arunkumar-packiyasamy-53a64b351/" target="_blank">
+  <a href="https://www.linkedin.com/in/arunkumar-packiyasamy-09221a352/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 
 ---
 
-<img align="right" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3NiNTh6ajdiM3VpbTNrenBpbzRuZjRjZ3h3c2VzNzZzNnZuM3F2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" />
 
 ### 🛠️ Languages & Tools  
 <p align="left">
