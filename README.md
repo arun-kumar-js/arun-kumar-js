@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arunkumar</h1>
-<h3 align="center">A Passionate Full Stack MERN Developer</h3>
+<h3 align="center">A Passionate Full on React Native and MERN stack</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arun-kumar-js&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
